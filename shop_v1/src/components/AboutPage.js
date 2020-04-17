@@ -23,8 +23,7 @@ const About = () => (
       enim tincidunt fringilla. Etiam porttitor dolor eleifend felis consectetur
       facilisis. Ut pulvinar sollicitudin erat, nec malesuada nunc scelerisque
       nec. Aliquam vel dolor diam. Cras efficitur dignissim justo, ac tristique
-      tellus pellentesque pharetra. Quisque pharetra lectus molestie, posuere
-      lectus eget, tempor justo.
+      tellus pellentesque pharetra.
     </p>
   </div>
 );
