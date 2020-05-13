@@ -1,3 +1,7 @@
+this is my final store project at the end of the semester.
+
+----------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
