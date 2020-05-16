@@ -1,4 +1,5 @@
-this is my final store project at the end of the semester.
+This is my half done store project at the end of the semester.
+It will be finished at the end of second semester.
 
 ----------------------------------------------------------------
 
